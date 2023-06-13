@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-div {
+.first {
     background-image: url(images/background.jpg);
     background-size: cover;
     height: 100vh;
@@ -14,4 +14,13 @@ div {
 }
 .text{
     color: azure;
+}
+.second {
+    background-color: darkgrey;
+    background-size: cover;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
