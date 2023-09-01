@@ -32,9 +32,14 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+
+    
 }
 .container{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
+    font-size: 15px;
+    color: whitesmoke;
 }
